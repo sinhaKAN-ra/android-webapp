@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mtmart</string>
+    <string name="wifi_no_signal">wifi no signal</string>
+    <string name="no_internet_connection">no Internet Connection</string>
+</resources>
